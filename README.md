@@ -1,4 +1,4 @@
-# pytorch-multiclass-classification
+# Pytorch-multiclass-classification
 
 This is a private Pytorch practice for the naive multiclass classification task.
 
