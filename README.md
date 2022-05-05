@@ -1,6 +1,6 @@
-# pytorch-practice-multiclass-classification
+# pytorch-multiclass-classification
 
-This is a private Pytorch practice for the regular multiclass classification task.
+This is a private Pytorch practice for the naive multiclass classification task.
 
 By the way, I use the CIFAR10 dataset as our training data.
 
